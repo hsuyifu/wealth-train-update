@@ -1,7 +1,8 @@
 {
-  "version": "2026.06.16.UPDATE-FILL-031",
+  "version": "2026.06.16.AUTO-FULL-032",
   "title": "財富小火車新版",
-  "message": "新增檢查更新按鈕，修正反手成交通知顯示 0 元問題，改顯示反手平倉損益。",
-  "zip_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v2026.06.16.UPDATE-FILL-031/wealth_train_update_button_reverse_fill_patch_20260616.zip",
+  "message": "新增一鍵自動更新：檢查更新後可自動下載乾淨完整版、保留本機使用者資料、備份、安裝並重新啟動面板。",
+  "full_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v2026.06.16.AUTO-FULL-032/_._20260616_AUTO-FULL-032.zip",
+  "full_sha256": "8a221fecf7918804354f0220ec0f1c8fdd4a1d613ae52e33b62f88b1978cb40f",
   "required": false
 }
