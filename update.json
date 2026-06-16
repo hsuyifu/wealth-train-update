@@ -1,8 +1,8 @@
 {
-  "version": "2026.06.16.AUTO-FULL-033",
+  "version": "2026.06.16.AUTO-FULL-033A",
   "title": "財富小火車新版",
-  "message": "完成一鍵自動更新完整版流程：下載完整版、SHA256 驗證、備份、保留本機資料、覆蓋安裝並自動重啟面板。",
-  "zip_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v2026.06.16.AUTO-FULL-033/財富小火車_乾淨完整版_20260616_AUTO-FULL-033.zip",
-  "sha256": "2102cb63314a834ad9e624e0e152e7e0e94da403ea9c4f78df6d4722f98b6c95",
+  "message": "修正一鍵自動更新流程：自動更新一律下載完整版 ZIP，支援暫停全部車號後更新，下載後進行 SHA256 驗證，備份舊版並保留本機使用者資料，安裝完成後自動重啟面板。",
+  "zip_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v2026.06.16.AUTO-FULL-033A/wealth_train_AUTO-FULL-033A.zip",
+  "sha256": "403e6592444cc1cc439dfe87d3dd79b36458c64bb8f8ee80abcd47c843943985",
   "required": false
 }
