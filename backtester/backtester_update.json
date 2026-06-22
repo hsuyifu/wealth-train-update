@@ -1,11 +1,9 @@
 {
   "app": "TrainBacktester",
-  "version": "v039",
-  "title": "小火車回測器 v039 線上更新",
-  "message": "下載後會自動備份原檔並覆蓋更新；完成後請關閉並重開小火車回測器。",
-  "published_at": "2026-06-22 12:26:34",
-  "required": false,
-  "package_type": "safe_update_patch",
-  "package_url": "train_backtester_v038_to_v039_safe_update_patch.zip",
-  "sha256": "956641e28cbb30e323fd6a7e389d869544ab5023a4c0df73d436a3ca4d4015c4"
+  "version": "v040",
+  "package_url": "train_backtester_v039_to_v040_safe_update_patch.zip",
+  "sha256": "17cf8fdcdb9d873998d7359922088546bdc525ae1eb337e0422b3384273915e4",
+  "title": "v040 3MA Strategy Backtest Upgrade",
+  "message": "3MA策略改用API版3MA回測核心；新增單邊手續費輸入與扣費；記憶四項停利參數；每日總表新增賺錢/賠錢平倉次數；交易明細新增每日白底累計淨損益列。",
+  "required": false
 }
