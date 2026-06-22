@@ -1,9 +1,9 @@
 {
   "app": "TrainBacktester",
-  "version": "v040",
-  "package_url": "train_backtester_v039_to_v040_safe_update_patch.zip",
-  "sha256": "17cf8fdcdb9d873998d7359922088546bdc525ae1eb337e0422b3384273915e4",
-  "title": "v040 3MA Strategy Backtest Upgrade",
-  "message": "3MA策略改用API版3MA回測核心；新增單邊手續費輸入與扣費；記憶四項停利參數；每日總表新增賺錢/賠錢平倉次數；交易明細新增每日白底累計淨損益列。",
+  "version": "v041",
+  "package_url": "train_backtester_v040_to_v041_safe_update_patch.zip",
+  "sha256": "a95c93a29bab00453951e6eb39a4d7d3523a47553490a95bebabc335d3847589",
+  "title": "v041 Auto Fee Backtest Upgrade",
+  "message": "手續費改為全自動：面板不需輸入單邊手續費，回測依商品類型與每筆進出場成交價自動扣除；交易明細仍顯示毛損益、手續費與淨損益。",
   "required": false
 }
