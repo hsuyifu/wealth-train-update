@@ -1,9 +1,9 @@
 {
   "app": "TrainBacktester",
-  "version": "v041",
-  "package_url": "train_backtester_v040_to_v041_safe_update_patch.zip",
-  "sha256": "a95c93a29bab00453951e6eb39a4d7d3523a47553490a95bebabc335d3847589",
-  "title": "v041 Auto Fee Backtest Upgrade",
-  "message": "手續費改為全自動：面板不需輸入單邊手續費，回測依商品類型與每筆進出場成交價自動扣除；交易明細仍顯示毛損益、手續費與淨損益。",
+  "version": "v042",
+  "package_url": "train_backtester_v041_to_v042_safe_update_patch.zip",
+  "sha256": "5e356b98b31d5f4e16400240478079e3864e5fded8bc1ceb093f7bebeeb0caad",
+  "title": "v042 NTD Risk Threshold Fix",
+  "message": "修正認賠下車/賺飽下車單位：面板輸入為新台幣，實際回測也固定依扣完進出場手續費後的新台幣累積淨損益判斷；停利/停損仍維持商品點數。",
   "required": false
 }
