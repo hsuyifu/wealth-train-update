@@ -1,0 +1,11 @@
+{
+  "app": "TrainBacktester",
+  "version": "v039",
+  "title": "小火車回測器 v039 線上更新",
+  "message": "下載後會自動備份原檔並覆蓋更新；完成後請關閉並重開小火車回測器。",
+  "published_at": "2026-06-22 12:26:34",
+  "required": false,
+  "package_type": "safe_update_patch",
+  "package_url": "train_backtester_v038_to_v039_safe_update_patch.zip",
+  "sha256": "956641e28cbb30e323fd6a7e389d869544ab5023a4c0df73d436a3ca4d4015c4"
+}
