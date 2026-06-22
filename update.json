@@ -1,9 +1,9 @@
 {
-  "version": "2026.06.22.3MA-SAFE-UPDATE-055B",
-  "title": "055B 測試更新",
-  "message": "測試安全更新流程，只更新版本號與更新紀錄，不改交易核心、不改策略、不改下單流程。",
-  "patch_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v055B/wealth_train_055A_to_055B_test_patch.zip",
-  "patch_sha256": "b3205312fb10d21dabdd1a781358fc24d5d9e7623fbf04a41ba5a150a6f76ce2",
+  "version": "2026.06.22.3MA-SAFE-UPDATE-056A",
+  "title": "056A",
+  "message": "Update 056A",
+  "patch_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v056A/wealth_train_055B_to_056A_safe_update_patch.zip",
+  "patch_sha256": "ebcfe64e15ec14814536e3f565f3b2b8cd0a59b421a666e75abff2a498073314",
   "package_type": "patch",
   "required": false
 }
