@@ -1,9 +1,9 @@
 {
-  "version": "2026.06.22.3MA-SAFE-UPDATE-056A",
-  "title": "056A",
-  "message": "Update 056A",
-  "patch_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v056A/wealth_train_055B_to_056A_safe_update_patch.zip",
-  "patch_sha256": "ebcfe64e15ec14814536e3f565f3b2b8cd0a59b421a666e75abff2a498073314",
+  "version": "2026.06.22.3MA-SAFE-UPDATE-056B",
+  "title": "056B",
+  "message": "Update 056B",
+  "patch_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v056B/wealth_train_056A_to_056B_safe_update_patch.zip",
+  "patch_sha256": "ac4bbac503f55881b2823bc3974de0099dd2feb592197126576d3ae276469e3e",
   "package_type": "patch",
   "required": false
 }
