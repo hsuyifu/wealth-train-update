@@ -3,7 +3,7 @@
   "version": "v051D",
   "title": "Train Backtester v051D online update",
   "message": "Safe update patch. The updater will back up files and apply the patch. Restart Train Backtester after updating.",
-  "published_at": "2026-06-23 23:17:36",
+  "published_at": "2026-06-23 23:24:01",
   "required": false,
   "package_type": "safe_update_patch",
   "package_url": "train_backtester_v051A_to_v051D_safe_update_patch.zip",
