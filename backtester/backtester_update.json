@@ -1,9 +1,11 @@
 {
   "app": "TrainBacktester",
-  "version": "v042",
-  "package_url": "train_backtester_v041_to_v042_safe_update_patch.zip",
-  "sha256": "5e356b98b31d5f4e16400240478079e3864e5fded8bc1ceb093f7bebeeb0caad",
-  "title": "v042 NTD Risk Threshold Fix",
-  "message": "修正認賠下車/賺飽下車單位：面板輸入為新台幣，實際回測也固定依扣完進出場手續費後的新台幣累積淨損益判斷；停利/停損仍維持商品點數。",
-  "required": false
+  "version": "v047",
+  "title": "Train Backtester v047 online update",
+  "message": "Safe update patch. The updater will back up files and apply the patch. Restart Train Backtester after updating.",
+  "published_at": "2026-06-23 12:58:40",
+  "required": false,
+  "package_type": "safe_update_patch",
+  "package_url": "train_backtester_v045_to_v047_safe_update_patch.zip",
+  "sha256": "9e3f0e4d414840029718336682021eaee43e7326688ebbfcb77a4f180bc4cae2"
 }
