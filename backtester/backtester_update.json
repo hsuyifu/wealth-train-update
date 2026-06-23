@@ -1,11 +1,11 @@
 {
   "app": "TrainBacktester",
-  "version": "v050",
-  "title": "Train Backtester v050 online update",
+  "version": "v051",
+  "title": "Train Backtester v051 online update",
   "message": "Safe update patch. The updater will back up files and apply the patch. Restart Train Backtester after updating.",
-  "published_at": "2026-06-23 21:16:00",
+  "published_at": "2026-06-23 21:32:52",
   "required": false,
   "package_type": "safe_update_patch",
-  "package_url": "train_backtester_v049_to_v050_safe_update_patch.zip",
-  "sha256": "1402a54d1ff3f61d3a2f05497b034572b0de0dbcb6ac105948225a5124eab42c"
+  "package_url": "train_backtester_v050_to_v051_safe_update_patch.zip",
+  "sha256": "523fcdedcab3369055adc75ac16f5022bbd0e1134137672a872a45bc1bb0a223"
 }
