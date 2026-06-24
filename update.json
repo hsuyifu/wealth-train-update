@@ -1,9 +1,9 @@
 {
-  "version": "2026.06.24.3MA-SAFE-UPDATE-057J",
-  "title": "057J",
-  "message": "Update 057J",
-  "patch_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v057J/wealth_train_057I_to_057J_safe_update_patch.zip",
-  "patch_sha256": "b7afd94691b394e73e70e26c64c89b8dba1de97e41b192259ded9cf5d14dd997",
+  "version": "2026.06.24.3MA-SAFE-UPDATE-057K",
+  "title": "057K",
+  "message": "Update 057K",
+  "patch_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/v057K/wealth_train_057J_to_057K_safe_update_patch.zip",
+  "patch_sha256": "e9348445640d548be880b171fc0efa7a058c9fbbe7229b4cdfd0747df2c3a91d",
   "package_type": "patch",
   "required": false
 }
