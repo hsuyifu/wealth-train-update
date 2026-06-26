@@ -1,9 +1,9 @@
 {
-  "version": "2026.06.26-058V",
-  "title": "058V",
-  "message": "Update 058V",
+  "version": "2026.06.26-058W",
+  "title": "058W",
+  "message": "Update 058W",
   "patch_url": "https://github.com/hsuyifu/wealth-train-update/releases/download/latest/wealth_train_latest_safe_update_patch.zip",
-  "patch_sha256": "4a1283872f02cc8579a0f9362c58fa2aca1576de06261a3523ec0e8016a191fd",
+  "patch_sha256": "d6206631b5c9382e86da5f0372934904816585e30aa8f3db5c123d354005101b",
   "package_type": "patch",
   "required": false
 }
